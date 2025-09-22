@@ -5,7 +5,7 @@ export const translations = {
     placeholder: 'Какой у вас вопрос?',
     messagePlaceholder: 'Введите сообщение...',
     newChat: 'Новый чат',
-    settings: 'Настройкииии',
+    settings: 'Настройки',
     language: 'Язык',
     deleteAllChats: 'Удалить все чаты',
     adminPanel: 'Админ панель',
