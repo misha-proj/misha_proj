@@ -2,7 +2,7 @@ import { Language } from '../types';
 
 export const translations = {
   ru: {
-    placeholder: 'Какой у вас вопрос?',
+    placeholder: 'Как сдать Кутера М.И. ?',
     messagePlaceholder: 'Введите сообщение...',
     newChat: 'Новый чат',
     settings: 'Настройки',
