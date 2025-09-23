@@ -19,7 +19,7 @@ interface ChatInputProps {
 }
 
 const models = [
-  { name: 'AM Base' as const, description: 'GPT-3.5 Turbo' },
+  { name: 'AM Base' as const, description: 'GPT-3.5 Tubo' },
   { name: 'AM Start' as const, description: 'GPT-4' },
   { name: 'AM Pro' as const, description: 'GPT-4o' }
 ];
