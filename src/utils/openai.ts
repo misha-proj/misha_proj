@@ -1,7 +1,7 @@
 const OPENAI_API_URL = 'https://api.openai.com/v1/chat/completions';
 
 const modelMap = {
-  'AM Base': 'gpt-3.5-turbo',
+  'AM Base': 'gpt-3.5-turboo',
   'AM Start': 'gpt-4',
   'AM Pro': 'gpt-4o'
 };
