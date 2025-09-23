@@ -2,14 +2,14 @@ import { Language } from '../types';
 
 export const translations = {
   ru: {
-    placeholder: 'Помоги сдать бух.учет',
-    messagePlaceholder: 'Введите сообщение...',
+    placeholder: 'Лавандовый раф норм или стрем ?',
+    messagePlaceholder: 'Тут надо писать...',
     newChat: 'Новый чат',
     settings: 'Настройки',
     language: 'Язык',
     deleteAllChats: 'Удалить все чаты',
-    adminPanel: 'Админ панель',
-    apiKey: 'API ключ OpenAI',
+    adminPanel: 'Админка',
+    apiKey: 'API',
     password: 'Пароль',
     login: 'Войти',
     russian: 'Русский',
