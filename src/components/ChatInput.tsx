@@ -19,9 +19,9 @@ interface ChatInputProps {
 }
 
 const models = [
-  { name: 'AM Base' as const, description: 'GPT-3.5 Tubo' },
-  { name: 'AM Start' as const, description: 'GPT-4' },
-  { name: 'AM Pro' as const, description: 'GPT-4o' }
+  { name: 'AM Base' as const, description: '' },
+  { name: 'AM Start' as const, description: '' },
+  { name: 'AM Pro' as const, description: '' }
 ];
 
 export const ChatInput: React.FC<ChatInputProps> = ({
